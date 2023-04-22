@@ -1,2 +1,1 @@
-# Precourse-henry
-Mi primer repositorio en henry
+Estoy modificando un archivo dentro de mi primer repositorio que acabo de clonar desde github, y ahora está en mi terminal de git bash.
